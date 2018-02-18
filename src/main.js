@@ -13,3 +13,9 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
+new Vue({
+  el: '#app2',
+  data: {
+    message: 'You Loaded this page on' + new Date().toLocaleString()
+  }
+})
