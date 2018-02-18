@@ -2,7 +2,7 @@
   <div class="hello">
     <span v-bind:title="message">
       Hover your mouse over me for a few seconds
-      to see dynamically bound title!
+      to see dynamically bound titl
     </span>
   </div>
 </template>
